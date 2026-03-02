@@ -1,6 +1,6 @@
 ---
 id: id-ra0024
-slug: /ref-arch/06ff6062dc
+slug: /ref-arch/24513574da
 sidebar_position: 24
 sidebar_custom_props:
   category_index:
@@ -8,7 +8,9 @@ sidebar_custom_props:
     - appdev
 title: Integrating and Extending Joule
 description: >-
-  Explore key topics for implementing and extending Joule, from enterprise integration with systems like SAP S/4HANA and SAP SuccessFactors to building custom skills and agents with Joule Studio and SAP BTP
+  Explore key topics for implementing and extending Joule, from enterprise
+  integration with systems like SAP S/4HANA and SAP SuccessFactors to building
+  custom skills and agents with Joule Studio and SAP BTP
 keywords:
   - sap build
   - joule studio
@@ -33,10 +35,10 @@ toc_max_heading_level: 4
 draft: false
 unlisted: false
 contributors:
-    - nagesh-caparthy1
-    - anbazhagana-uma
-    - pra1veenk
-discussion:
+  - nagesh-caparthy1
+  - anbazhagana-uma
+  - pra1veenk
+discussion: 
 last_update:
   author: anbazhagana-uma
   date: 2025-10-29
