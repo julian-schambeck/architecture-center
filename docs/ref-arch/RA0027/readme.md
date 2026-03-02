@@ -1,23 +1,39 @@
 ---
-############################################################
-#                Beginning of Front Matter                 #
-############################################################
-#                     [DO NOT MODIFY]                      #
-############################################################
 id: id-ra0027
-slug: /ref-arch/d6e703646d
+slug: /ref-arch/0c9db5d16b
 sidebar_position: 27
 sidebar_custom_props:
-    category_index:
-############################################################
-#     You can modify the front matter properties below     #
-############################################################
-title: Log-Driven Security Operations with SAP Enterprise Threat Detection and SIEM/SOAR Platforms
-description: This reference architecture shows how SAP Enterprise Threat Detection provides log-driven security signals that are correlated in FortiSIEM and orchestrated through FortiSOAR to enable centralized monitoring incident investigation and automated response.
-sidebar_label: Log-Driven Security Operations with SAP Enterprise Threat Detection and SIEM/SOAR Platforms
-keywords: [sap enterprise threat detection, sap security, siem, soar, security operations, soc architecture, log-driven security, event correlation, incident response, security automation, hybrid security architecture, cloud security monitoring]
+  category_index: []
+title: >-
+  Log-Driven Security Operations with SAP Enterprise Threat Detection and
+  SIEM/SOAR Platforms
+description: >-
+  This reference architecture shows how SAP Enterprise Threat Detection provides
+  log-driven security signals that are correlated in FortiSIEM and orchestrated
+  through FortiSOAR to enable centralized monitoring incident investigation and
+  automated response.
+keywords:
+  - sap enterprise threat detection
+  - sap security
+  - siem
+  - soar
+  - security operations
+  - soc architecture
+  - log-driven security
+  - event correlation
+  - incident response
+  - security automation
+  - hybrid security architecture
+  - cloud security monitoring
+sidebar_label: >-
+  Log-Driven Security Operations with SAP Enterprise Threat Detection and
+  SIEM/SOAR Platforms
 image: img/logo.svg
-tags: [ref-arch, security, integration, eda]
+tags:
+  - ref-arch
+  - security
+  - integration
+  - eda
 hide_table_of_contents: false
 hide_title: false
 toc_min_heading_level: 2
@@ -25,13 +41,11 @@ toc_max_heading_level: 4
 draft: false
 unlisted: false
 contributors:
-    - randomstr1ng
+  - randomstr1ng
+discussion: 
 last_update:
-    date: 2026-01-26
-    author: Julian Petersohn
-############################################################
-#                   End of Front Matter                    #
-############################################################
+  author: Julian Petersohn
+  date: 2026-01-26
 ---
 
 SAP landscapes generate security-relevant telemetry across application, database, and platform layers, including environments such as SAP RISE, SAP BTP, SAP SaaS applications, and on-premises SAP systems.
