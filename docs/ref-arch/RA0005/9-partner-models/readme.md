@@ -1,29 +1,30 @@
 ---
-############################################################
-#                Beginning of Front Matter                 #
-############################################################
-#                     [DO NOT MODIFY]                      #
-############################################################
 id: id-ra0005-9
-slug: /ref-arch/e5eb3b9b1d/9
+slug: /ref-arch/4b9d597602/9
 sidebar_position: 9
 sidebar_custom_props:
-    category_index:
-############################################################
-#     You can modify the front matter properties below     #
-############################################################
+  category_index: []
 title: Partner Models
-description: The reference architecture illustrates how to benefit from partner models like IBM Granite foundation model for the increasing demand of generative AI features in business scenarios with emphasis on data security, IP Protection and enterprise-grade governance and compliance.
-keywords: [IBM, Granite, Generative AI, SAP HANA Cloud, SAP AI Core, RAG]
+description: >-
+  The reference architecture illustrates how to benefit from partner models like
+  IBM Granite foundation model for the increasing demand of generative AI
+  features in business scenarios with emphasis on data security, IP Protection
+  and enterprise-grade governance and compliance.
+keywords:
+  - IBM
+  - Granite
+  - Generative AI
+  - SAP HANA Cloud
+  - SAP AI Core
+  - RAG
 sidebar_label: Partner Models
 image: img/logo.svg
-tags: 
-    - genai
-    - aws
-    - azure
-    - gcp
-    - ibm
-
+tags:
+  - genai
+  - aws
+  - azure
+  - gcp
+  - ibm
 hide_table_of_contents: false
 hide_title: false
 toc_min_heading_level: 2
@@ -31,15 +32,13 @@ toc_max_heading_level: 4
 draft: false
 unlisted: false
 contributors:
-    - chaturvedakash
-    - feng-lia
-    - kevinxhuang
+  - chaturvedakash
+  - feng-lia
+  - kevinxhuang
+discussion: 
 last_update:
-    date: 2025-06-17
-    author: feng-lia
-############################################################
-#                   End of Front Matter                    #
-############################################################
+  author: feng-lia
+  date: 2025-06-17
 ---
 
 IBM's Granite foundation models are purpose-built generative AI solutions, designed to seamlessly integrate GenAI within business applications and workflows. By combining high performance, efficient deployment, and rigorous safeguards—including domain-specific training data, advanced risk detection tools, and enterprise-grade IP protection—IBM Granite provides a compelling solution for enterprises looking to adopt AI responsibly and confidently.
