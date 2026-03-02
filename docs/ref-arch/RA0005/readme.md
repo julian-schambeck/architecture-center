@@ -3,13 +3,13 @@ id: id-ra0005
 slug: /ref-arch/e5eb3b9b1d
 sidebar_position: 5
 sidebar_custom_props:
-    category_index:
-        - appdev
-        - ai
-        - aws
-        - azure
-        - gcp
-title: Generative AI on SAP BTP
+  category_index:
+    - appdev
+    - ai
+    - aws
+    - azure
+    - gcp
+title: REVAMPED SHINY Generative AI on SAP BTP
 description: >-
   Integrate Generative AI with SAP BTP using SAP HANA Cloud's Vector Engine for
   similarity search and advanced AI patterns.
@@ -19,14 +19,14 @@ keywords:
   - cloud foundry
   - vector engine integration
   - advanced ai solutions
-sidebar_label: Generative AI on SAP BTP
+sidebar_label: REVAMPED Generative AI on SAP BTP
 image: img/ac-soc-med.png
 tags:
-    - aws
-    - azure
-    - gcp
-    - genai
-    - agents
+  - aws
+  - azure
+  - gcp
+  - genai
+  - agents
 hide_table_of_contents: false
 hide_title: false
 toc_min_heading_level: 2
@@ -34,14 +34,14 @@ toc_max_heading_level: 4
 draft: false
 unlisted: false
 contributors:
-    - kay-schmitteckert
-    - AdiPleyer
-    - vedant-aero-ml
-    - madankumarpichamuthu
-discussion:
+  - kay-schmitteckert
+  - AdiPleyer
+  - vedant-aero-ml
+  - madankumarpichamuthu
+discussion: 
 last_update:
-  author: kay-schmitteckert
-  date: 2025-09-02
+  author: julian-schambeck
+  date: 2026-02-02
 ---
 
 Harness the power of Generative AI (GenAI) in your applications on SAP BTP, providing a robust framework for optimizing AI-driven application development and data management.
