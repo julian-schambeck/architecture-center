@@ -3,6 +3,8 @@ name: init-ref-arch
 description: Creates the initial skeleton of folders and front matter for a new reference architecture. Use when the user wants to create, scaffold, add, or contribute a new reference architecture.
 ---
 
+small change
+
 # Initialize New Reference Architecture
 
 Go through the files below and familiarize yourself with the expected structure of a new reference architecture (RA):
